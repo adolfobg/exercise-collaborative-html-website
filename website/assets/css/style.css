@@ -2,6 +2,8 @@ body{
     background: #BDBDBD;
 }
 .imgheight{
-    height: auto;
-    width: auto;
+    height: 200px;
+}
+.titulocards{
+    color: cornflowerblue;
 }
