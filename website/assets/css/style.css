@@ -4,3 +4,9 @@ body{
 .imgheight{
     height: 200px;
    }
+
+   * {
+    border: 1px dashed red;
+    min-height: 10px;
+}
+
