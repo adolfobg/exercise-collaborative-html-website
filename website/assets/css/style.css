@@ -13,3 +13,24 @@ body{
 .img1 {
     border-radius: 50%;
   }
+
+  .max{
+    max-width: 200rem;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-right: 20px;
+  }
+
+  .textosecundariobanner{
+    font-size: 1.5rem;
+   
+  }
+
+  .textoprincipalbanner{
+    color: gray;
+    display: inline;
+  }
+  .alineacion{
+    display: inline;
+
+  }
