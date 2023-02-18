@@ -1,14 +1,9 @@
-body{
-    background: #BDBDBD;
-}
+
 .imgheight{
     height: 200px;
    }
 
-   * {
-    border: 1px dashed red;
-    min-height: 10px;
-}
+
 
 .img1 {
     border-radius: 50%;
